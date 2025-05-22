@@ -1,0 +1,6 @@
+atlas_public_key  = "ozvirfmp"
+atlas_private_key = "701ff34b-3bb8-48ed-9ee7-55c8eba440ff"
+atlas_org_id      = "628b684a8b67545d54b30d6d"
+project_id        = "65f617a6cdafb5108b9c6ef2"
+project_name      = "gourav.bhabesh"
+cluster_name      = "cluster-test-multi-cloud"
